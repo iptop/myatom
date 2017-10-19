@@ -6,9 +6,14 @@
   "autocomplete-python":
     useKite: false
   core:
+    autoHideMenuBar: true
     telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
   editor:
-    fontSize: 13
+    fontFamily: "新宋体"
   "exception-reporting":
     userId: "bb9d814a-a786-4c27-b3f4-4f8f10eeeedf"
   welcome:
