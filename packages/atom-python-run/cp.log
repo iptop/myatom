@@ -15,4 +15,4 @@ DEBUG: namespace: [key] "script" [value] "C:\Users\Administrator\Desktop\test.py
 DEBUG: namespace: [key] "last" [value] "C:\Users\Administrator\Desktop\test.py"
 DEBUG: command: ['python', 'C:\\Users\\Administrator\\Desktop\\test.py']
 INFO: return code: 0 (0x0)
-INFO: elapsed time: 0.074004
+INFO: elapsed time: 0.064004
