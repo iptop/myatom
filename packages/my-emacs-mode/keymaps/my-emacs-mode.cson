@@ -2,3 +2,6 @@
 'atom-workspace':
   "ctrl-n": "core:move-down"
   "ctrl-p": "core:move-up"
+
+  #emacs-mode标记文本功能
+  "ctrl-2": "atomic-emacs:set-mark"
