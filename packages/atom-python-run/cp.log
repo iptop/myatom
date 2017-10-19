@@ -1,0 +1,18 @@
+INFO: Platform: win32
+INFO: Version Info: v0.2.0
+DEBUG: Log Path: C:\Users\Administrator\.atom\packages\atom-python-run\cp.log
+DEBUG: _ast: "['--pause', 'python', 'C:\\Users\\Administrator\\Desktop\\test.py']"
+DEBUG: Index: "0" Token: "--pause"
+DEBUG: Index: "1" Token: "python"
+DEBUG: Index: "2" Token: "C:\Users\Administrator\Desktop\test.py"
+DEBUG: namespace: [key] "name" [value] "C:\Users\Administrator\.atom\packages\atom-python-run\lib\..\cp\main.py"
+DEBUG: namespace: [key] "pause" [value] "True"
+DEBUG: namespace: [key] "file" [value] "False"
+DEBUG: namespace: [key] "path" [value] ""
+DEBUG: namespace: [key] "repl" [value] "python"
+DEBUG: namespace: [key] "options" [value] "[]"
+DEBUG: namespace: [key] "script" [value] "C:\Users\Administrator\Desktop\test.py"
+DEBUG: namespace: [key] "last" [value] "C:\Users\Administrator\Desktop\test.py"
+DEBUG: command: ['python', 'C:\\Users\\Administrator\\Desktop\\test.py']
+INFO: return code: 0 (0x0)
+INFO: elapsed time: 0.074004

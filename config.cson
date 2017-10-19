@@ -1,4 +1,7 @@
 "*":
+  "atom-python-run": {}
+  "autocomplete-python":
+    useKite: false
   core:
     telemetryConsent: "limited"
   "exception-reporting":
