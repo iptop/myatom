@@ -1,4 +1,4 @@
 #优化emacs-mode 下的上下按键
 'atom-workspace':
-    "ctrl-n": "core:move-down"
-    "ctrl-p": "core:move-up"
+  "ctrl-n": "core:move-down"
+  "ctrl-p": "core:move-up"

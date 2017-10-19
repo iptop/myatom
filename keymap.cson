@@ -1,0 +1,3 @@
+'atom-text-editor':
+  'ctrl-=': 'expand-region:expand'
+  'ctrl--': 'expand-region:shrink'
